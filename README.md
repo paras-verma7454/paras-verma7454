@@ -28,3 +28,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paras-verma7454&show_icons=true&locale=en&layout=compact" alt="paras-verma7454" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paras-verma7454&show_icons=true&locale=en" alt="paras-verma7454" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/paras-verma7454/paras-verma7454/output/snake.svg" alt="Snake animation" />
+
