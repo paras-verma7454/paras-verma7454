@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
 - 📫 How to reach me **Parasverma7454@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
