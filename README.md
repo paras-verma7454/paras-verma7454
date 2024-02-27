@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Verma</h1>
-<h3 align="center">CSE Student | Frontend Developer | Trailhead Hiker</h3>
+<h3 align="center">CSE Student | Frontend Developer | Trailhead Explorer</h3>
 
 - 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
 
