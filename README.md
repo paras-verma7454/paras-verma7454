@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Verma</h1>
 <h3 align="center">CSE student | Salesforce Admin | Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate**
+- 🌱 I’m currently learning **Meta Front-End Developer Professional Certificate, Salesforce Admin**
 
 - 📫 How to reach me **Parasverma7454@gmail.com**
 
