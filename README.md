@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Salesforce Development and Machine learning
+🌱 I’m currently learning: **Salesforce Development and Machine learning**
 
 
 ## 🌐 Socials:
