@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: **DSA and Machine learning**
+🌱 I’m currently learning: **DSA and Full Stack Development**
 
 
 ## 🌐 Socials:
