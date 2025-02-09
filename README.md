@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">🌱 I’m currently learning: DSA and FullStack Development<br>📧 Feel free to reach out: Parasverma7454@gmail.com</p>
+<p align="left">🌱 I’m currently learning: GO and FullStack Development<br>📧 Feel free to reach out: Parasverma7454@gmail.com</p>
 
 ###
 
