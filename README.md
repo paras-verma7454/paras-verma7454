@@ -46,6 +46,8 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 
 ###
