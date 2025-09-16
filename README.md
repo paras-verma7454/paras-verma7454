@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: DevOps and FullStack Development<br>📧 Feel free to reach out: Parasverma7454@gmail.com</p>
+<p align="left">🌱 I’m currently learning: FullStack Development<br>📧 Feel free to reach out: Parasverma7454@gmail.com</p>
 
 ###
 
