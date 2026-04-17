@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Paras Verma and I'm a Full Stack developer from India.</p>
+<p align="left">My name is Paras Verma, and I'm a full-stack developer & AI engineer from India.</p>
 
 ###
 
